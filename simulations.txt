@@ -1,0 +1,6 @@
+SET_INPUT A true
+SET_INPUT D1 true
+SHOW_PORT p
+SET_INPUT A false
+SET_INPUT D false
+SHOW_PORT p
